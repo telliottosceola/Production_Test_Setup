@@ -27,5 +27,14 @@
        },
        "instruction":"Close Input 1."
      }
+   ],
+   "13":[
+      {
+         "Current ":{
+            "high":2.15,
+            "low":1.90
+         },
+         "instruction":"Use 250Watt Light Bulb to test this unit, pass the wire once"
+      }
    ]
 }
