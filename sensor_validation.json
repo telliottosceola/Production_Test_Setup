@@ -1,0 +1,31 @@
+{
+   "1":[
+      {
+         "temperature":{
+            "high":40,
+            "low":15
+         },
+         "humidity":{
+            "high":60,
+            "low":15
+         },
+         "instruction":"Power up in environment with temperature between 15-40 and relative humidity between 15-60"
+      }
+   ],
+   "2":[
+     {
+       "input_1":{
+         "high":0,
+         "low":0
+       },
+       "instruction":"Power up with input open"
+     },
+     {
+       "input_1":{
+         "high":1,
+         "low":1
+       },
+       "instruction":"Close Input 1."
+     }
+   ]
+}
