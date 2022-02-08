@@ -30,11 +30,81 @@
    ],
    "13":[
       {
-         "Current ":{
-            "high":2.15,
+         "amps":{
+            "high":2.20,
             "low":1.90
          },
-         "instruction":"Use 250Watt Light Bulb to test this unit, pass the wire once"
+         "instruction":"Use 250 Watt Light Bulb to test this unit, pass the wire once"
+      },
+      {
+         "amps":{
+            "high":0,
+            "low":0
+         },
+         "instruction":"Turn OFF the Light Bulb"
       }
+   ],
+   "19":[
+      {
+         "channel_1":{
+            "high":2.20,
+            "low":1.90
+         },
+         "channel_2":{
+            "high":2.20,
+            "low":1.90
+         },
+
+         "instruction":"Use 250 Watt Light Bulb to test this unit, pass the wire once"
+      },
+      {
+         "channel_1":{
+            "high":0,
+            "low":0
+         },
+         "channel_2":{
+            "high":0,
+            "low":0
+         },
+
+         "instruction":"Turn OFF The light Bulb"
+      }
+   ],
+   "28":[
+      {
+         "channel_1":{
+            "high":2.20,
+            "low":1.90
+         },
+         "channel_2":{
+            "high":2.20,
+            "low":1.90
+         },
+         "channel_3":{
+            "high":2.20,
+            "low":1.90
+         },
+
+         "instruction":"Use 250 Watt Light Bulb to test this unit, pass the wire once"
+      },
+
+    {
+       "channel_1":{
+          "high":0,
+          "low":0
+       },
+       "channel_2":{
+          "high":0,
+          "low":0
+       },
+       "channel_3":{
+          "high":0,
+          "low":0
+       },
+
+       "instruction":"Turn OFF The light Bulb"
+    }
    ]
+
+
 }
